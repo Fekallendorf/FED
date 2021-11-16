@@ -36,7 +36,7 @@ Responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-<link>https://github.com/Fekallendorf/FED</link>
+<link>https://www.lush.com/nl/nl?t=1637105171249</link>
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
